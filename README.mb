@@ -1,0 +1,33 @@
+PROJETO DESAFIO OLivas Digital
+
+1. Descrição do projeto 
+
+O projeto em questão é um desafio prático, aplicado pela empresa Olivas Digital, para comprovação de conhecimentos técnicos imposto a vaga
+de desenvolvedor Wordepress.
+
+2. Funcionalidades
+
+Foi desenvolvido um website contendo as seguintes páginas (Inicial, Contato e Archive Projetos) possui a funcionalidade de upload de arquivos, filtro de postagens
+formulario com campo personalizado, campo de pesquisas, posts_types. Todas estas funcionalidades impostas com desenvolvimento de um tema próprio, plug-in de Posts 
+próprio, alem de plug-ins implementados como pré requisito do projeto.
+
+3. Utilização
+
+Pode ser utilizado como difusor de postagens de diversos assuntos, além de ser uma ferramenta de upload de arquivos, serve também como portifólio de projetos pessoais.
+
+4. Suporte
+
+Em caso de duvidas favor entrar em contato através do GITHUB https://github.com/ralffer.
+
+5. Autor do projeto
+
+Ralffer Sathler Ferreira
+
+6. Fonte
+
+*Documentação Wordpress
+* Youtube
+* Developer Mozila 
+* JavaScript
+* php.net
+
